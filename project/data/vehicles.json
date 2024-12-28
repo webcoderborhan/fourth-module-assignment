@@ -1,0 +1,20 @@
+[
+    {
+        "name": "BMW 5 Series",
+        "type": "Car",
+        "price": "29800",
+        "image": "https:\/\/stimg.cardekho.com\/images\/carexteriorimages\/630x420\/BMW\/5-Series-2024\/10182\/1685002609273\/front-left-side-47.jpg"
+    },
+    {
+        "name": "Yamaha R15 V3",
+        "type": "Bike",
+        "price": "4480",
+        "image": "https:\/\/admin.sawaribd.com\/storage\/product_image\/FrlVuVyck54t6wPOJXlcsiX8anKHFGMOymB6MJPM.jpg"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "type": "Car",
+        "price": "95300",
+        "image": "https:\/\/stimg.cardekho.com\/images\/carexteriorimages\/630x420\/Mercedes-Benz\/GLA-2024\/9731\/1679039244149\/front-left-side-47.jpg"
+    }
+]
